@@ -1,0 +1,97 @@
+{
+  "name": "collections-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^3.2.1",
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fullcalendar/core": "^6.1.18",
+    "@fullcalendar/daygrid": "^6.1.18",
+    "@fullcalendar/interaction": "^6.1.18",
+    "@fullcalendar/list": "^6.1.18",
+    "@fullcalendar/react": "^6.1.18",
+    "@fullcalendar/timegrid": "^6.1.18",
+    "@hookform/resolvers": "^5.1.1",
+    "@mui/icons-material": "^7.0.2",
+    "@mui/material": "^7.0.2",
+    "@mui/x-date-pickers": "^8.0.0",
+    "@radix-ui/react-alert-dialog": "^1.1.14",
+    "@radix-ui/react-dialog": "^1.1.14",
+    "@radix-ui/react-dropdown-menu": "^2.1.15",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-progress": "^1.1.7",
+    "@radix-ui/react-radio-group": "^1.3.7",
+    "@radix-ui/react-scroll-area": "^1.2.9",
+    "@radix-ui/react-select": "^2.2.5",
+    "@radix-ui/react-separator": "^1.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@radix-ui/react-tabs": "^1.1.12",
+    "@radix-ui/react-toggle": "^1.1.9",
+    "@radix-ui/react-toggle-group": "^1.1.10",
+    "@react-pdf/renderer": "^4.3.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@xmldom/xmldom": "^0.9.8",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "docx": "^9.4.1",
+    "docxtemplater": "^3.61.1",
+    "file-saver": "^2.0.5",
+    "firebase": "^11.10.0",
+    "framer-motion": "^12.23.0",
+    "lucide-react": "^0.508.0",
+    "pizzip": "^3.1.8",
+    "react": "^19.1.0",
+    "react-calendar": "^5.1.0",
+    "react-datepicker": "^8.3.0",
+    "react-day-picker": "^9.8.0",
+    "react-dom": "^19.1.0",
+    "react-grid-layout": "^1.5.1",
+    "react-hook-form": "^7.60.0",
+    "react-resizable": "^3.0.5",
+    "react-router-dom": "^6.30.0",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.10.1",
+    "recharts": "^2.15.3",
+    "tailwind-merge": "^3.3.1",
+    "tw-animate-css": "^1.3.5",
+    "web-vitals": "^2.1.4",
+    "zod": "^3.25.76"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  }
+}
